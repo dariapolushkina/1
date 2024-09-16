@@ -1,0 +1,39 @@
+
+
+.zagolovok{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: hsl(219, 79%, 66%);
+}
+
+.line{
+    color: blue;
+    border: 1px solid blue;
+}
+
+.istoriyasozdaniya{
+    font-weight: normal;
+}
+
+.ideologiya{
+    font-weight: normal;
+}
+
+.quote{
+    padding: 0px 20px;
+    border-left: 2px solid #d5d5d5;
+}
+
+.quote2{
+    padding: 0px 20px;
+    border-left: 2px solid #d5d5d5;
+    font-style: italic;
+}
+
+.c1ch {
+    padding: 0px 30px
+    
+}

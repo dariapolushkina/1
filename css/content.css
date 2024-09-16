@@ -37,3 +37,8 @@ a{
     padding: 0px 30px
     
 }
+
+nav{
+    border: 1px solid #d5d5d5;
+    background: #eee;
+}
